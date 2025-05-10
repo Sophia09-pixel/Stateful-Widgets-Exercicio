@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:praticando_stateful/build-color-slider.dart';
+import 'package:praticando_stateful/build_color_slider.dart';
 
 void main() {
   runApp(const MyApp());
